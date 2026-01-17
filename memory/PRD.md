@@ -1,9 +1,9 @@
 # SPA Booking System - PRD
 
 ## Current URLs (Source of Truth)
-- **Backend**: https://multilingfix.preview.emergentagent.com
-- **Frontend (Public)**: https://spabook-upgrade.preview.emergentagent.com
-- **Frontend (Admin)**: https://multilingfix.preview.emergentagent.com
+- **Backend**: https://spa-system-fixes.preview.emergentagent.com
+- **Frontend (Public)**: https://spa-system-fixes.preview.emergentagent.com
+- **Frontend (Admin)**: https://spa-system-fixes.preview.emergentagent.com
 
 ## Verified Prices - Romantični Paketi (E2E Tested Jan 8, 2026)
 | Package | Duration | Price (RSD) |

@@ -383,12 +383,12 @@ Ako imaš bilo kakvih pitanja ili probleme:
 
 **Booking sistem Backend URL:**
 ```
-https://multilingfix.preview.emergentagent.com/api
+https://spa-system-fixes.preview.emergentagent.com/api
 ```
 
 **Dashboard URL:**
 ```
-https://multilingfix.preview.emergentagent.com/
+https://spa-system-fixes.preview.emergentagent.com/
 Lozinka: studio149
 ```
 

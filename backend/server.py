@@ -4194,16 +4194,16 @@ async def api_root():
 # ============================================
 # 🔐 HARD-LOCKED URLs - ONLY THESE ARE VALID
 # ============================================
-BACKEND_PUBLIC_URL = "https://multilingfix.preview.emergentagent.com"
-FRONTEND_PUBLIC_URL = "https://multilingfix.preview.emergentagent.com"
+BACKEND_PUBLIC_URL = "https://spa-system-fixes.preview.emergentagent.com"
+FRONTEND_PUBLIC_URL = "https://spa-system-fixes.preview.emergentagent.com"
 
 # ============================================
 # 🌐 CORS ALLOWLIST - Dozvoljeni frontend origin-i
 # ============================================
 ALLOWED_ORIGINS = [
-    "https://multilingfix.preview.emergentagent.com",  # ✅ Backend admin panel
-    "https://spabook-upgrade.preview.emergentagent.com",  # ✅ Javni frontend (backup)
-    "https://multi-lang-spa-1.preview.emergentagent.com",  # ✅ NOVI frontend
+    "https://spa-system-fixes.preview.emergentagent.com",  # ✅ Backend admin panel
+    "https://spa-system-fixes.preview.emergentagent.com",  # ✅ Javni frontend (backup)
+    "https://spa-system-fixes.preview.emergentagent.com",  # ✅ NOVI frontend
     "http://localhost:3000",  # Development
 ]
 
