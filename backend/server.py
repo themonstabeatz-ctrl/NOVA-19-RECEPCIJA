@@ -4201,9 +4201,9 @@ FRONTEND_PUBLIC_URL = "https://spa-system-fixes.preview.emergentagent.com"
 # 🌐 CORS ALLOWLIST - Dozvoljeni frontend origin-i
 # ============================================
 ALLOWED_ORIGINS = [
-    "https://spa-system-fixes.preview.emergentagent.com",  # ✅ Backend/Admin panel
-    "https://multi-lang-spa-1.preview.emergentagent.com",  # ✅ Javni frontend website
-    "http://localhost:3000",  # Development
+    "https://spa-system-fixes.preview.emergentagent.com",
+    "https://spa-multilingual.preview.emergentagent.com",
+    "http://localhost:3000",
 ]
 
 # Root endpoint - returns JSON to confirm this is API server
