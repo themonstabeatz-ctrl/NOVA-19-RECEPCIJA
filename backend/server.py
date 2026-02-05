@@ -4201,7 +4201,7 @@ FRONTEND_PUBLIC_URL = "https://spa-system-fixes.preview.emergentagent.com"
 # 🌐 CORS ALLOWLIST - Dozvoljeni frontend origin-i
 # ============================================
 ALLOWED_ORIGINS = [
-    "https://visual-spa-ui.preview.emergentagent.com",
+    "https://gold-line-fixer.preview.emergentagent.com",
     "http://localhost:3000",
 ]
 
