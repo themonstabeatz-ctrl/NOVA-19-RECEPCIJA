@@ -4201,7 +4201,7 @@ FRONTEND_PUBLIC_URL = "https://spa-cors-sync.preview.emergentagent.com"
 # 🌐 CORS ALLOWLIST - Dozvoljeni frontend origin-i
 # ============================================
 ALLOWED_ORIGINS = [
-    "https://spa-cors-sync.preview.emergentagent.com",
+    "https://wavy-parallax-hero.preview.emergentagent.com",
     "http://localhost:3000",
 ]
 
