@@ -4194,14 +4194,14 @@ async def api_root():
 # ============================================
 # 🔐 HARD-LOCKED URLs - ONLY THESE ARE VALID
 # ============================================
-BACKEND_PUBLIC_URL = "https://spa-system-fixes.preview.emergentagent.com"
-FRONTEND_PUBLIC_URL = "https://spa-system-fixes.preview.emergentagent.com"
+BACKEND_PUBLIC_URL = "https://spa-cors-sync.preview.emergentagent.com"
+FRONTEND_PUBLIC_URL = "https://spa-cors-sync.preview.emergentagent.com"
 
 # ============================================
 # 🌐 CORS ALLOWLIST - Dozvoljeni frontend origin-i
 # ============================================
 ALLOWED_ORIGINS = [
-    "https://gold-line-fixer.preview.emergentagent.com",
+    "https://spa-cors-sync.preview.emergentagent.com",
     "http://localhost:3000",
 ]
 
